@@ -1,0 +1,3 @@
+I selected the state of Hawaii for this project. 
+I downloaded the data in .osm.bz2 format: link: https://download.geofabrik.de/north-america.html 
+The reason why I chose Hawaii is that, one day, I want to visit Hawaii and recap “Yes, I data wrangled these streets!”.
